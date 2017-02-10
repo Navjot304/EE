@@ -1,0 +1,21 @@
+{
+  "name": "expresswebsite",
+  "version": "0.0.1",
+  "description": "express website",
+  "main": "server",
+  "scripts": {
+    "test": "res",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "res"
+  },
+  "keywords": [
+    "res"
+  ],
+  "author": "Navjot",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
